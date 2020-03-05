@@ -1,2 +1,1 @@
-# Computer Networking
-Basic client-server programs in C.
+Basic client-server programs in C/C++
